@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Ankita
 
-<!--
-**Ankita-000/Ankita-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student  
+💻 Aspiring Product-Based Developer  
+🚀 Interested in AI, Web Development and Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python
+- C++
+- JavaScript
+- HTML, CSS
+- OpenCV
+- Git & GitHub
+
+---
+
+## 📌 Highlight Projects
+
+### 🧠 AI-Based Fraud Management System
+A machine learning based system for detecting fraudulent patterns in UID/Aadhaar data.
+
+### 🚗 Drowsiness Detection System
+Real-time driver drowsiness detection using OpenCV and ESP32 hardware alert system.
+
+---
+
+## 📫 Connect with Me
+🔗 LinkedIn: (paste your LinkedIn link here)
