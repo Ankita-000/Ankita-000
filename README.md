@@ -27,4 +27,4 @@ Real-time driver drowsiness detection using OpenCV and ESP32 hardware alert syst
 ---
 
 ## 📫 Connect with Me
-🔗 LinkedIn: (paste your LinkedIn link here)
+🔗 LinkedIn: (www.linkedin.com/in/ankita-singh-0207000kg)
